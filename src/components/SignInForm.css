@@ -1,0 +1,13 @@
+.form-wrapper {
+    padding : 2vmin;
+    max-width: 600px;
+}
+
+.page-wrapper {
+    padding-top: 7vmin;
+}
+
+
+input {
+    border-bottom: solid 2px;
+}

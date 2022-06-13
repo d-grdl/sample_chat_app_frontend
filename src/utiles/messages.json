@@ -1,0 +1,50 @@
+[
+    {
+        "is_received": false,
+        "text": "Pink, fluffy unicorns dancing on rainbows!"
+    },
+    {
+        "is_received": false,
+        "text": "Pink, fluffy unicorns dancing on rainbows!"
+    },
+    {
+        "is_received": false,
+        "text": "Pink, fluffy unicorns dancing on rainbows!"
+    },
+    {
+        "is_received": false,
+        "text": "Pink, fluffy unicorns dancing on rainbows!"
+    },
+    {
+        "is_received": true,
+        "text": "Let's test your knowledge and see what you've learned so far!"
+    },
+    {
+        "is_received": true,
+        "text": "What color are the unicorns?"
+    },
+    {
+        "is_received": false,
+        "text": "Pink!"
+    },
+    {
+        "is_received": true,
+        "text": "Where are they dancing?"
+    },
+    {
+        "is_received": false,
+        "text": "Rainbows!"
+    },
+    {
+        "is_received": true,
+        "text": "Please use one word to describe the texture of their magical fur"
+    },
+    {
+        "is_received": false,
+        "text": "Smiles!"
+    },
+    {
+        "is_received": true,
+        "text": "Yeah!"
+    }
+]

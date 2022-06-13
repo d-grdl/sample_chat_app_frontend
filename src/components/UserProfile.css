@@ -1,0 +1,26 @@
+.birthdaychip {
+    margin: 2vmin;
+    width: fit-content;
+    font-size: 14px;
+    padding: 3vwin;
+}
+
+.cut-image {
+    height: 20vw;
+    overflow: hidden;
+}
+
+img {
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+}
+
+.image-row {
+    width: 90%;
+    margin-top: 2vh;
+}
+
+.page-wrapper{
+    padding-bottom: 2vh;
+}

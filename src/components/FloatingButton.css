@@ -1,0 +1,8 @@
+.fixed-action-btn {
+    margin-bottom: 7vh;
+    opacity: 0.8
+}
+
+.fixed-action-btn:hover {
+    opacity: 1
+}
